@@ -1,9 +1,9 @@
-title:              Blog
+title:              Clean Blog
 email:              sunhyeeee22@gmail.com
-description:        Delight
-author:             sunhye
+description:        A Blog Theme by Start Bootstrap
+author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https:/https://shyeo2.github.io//"
+url:                "https://shyeo2.github.io/""
 
 # Social Profiles
 twitter_username:   SBootstrap
