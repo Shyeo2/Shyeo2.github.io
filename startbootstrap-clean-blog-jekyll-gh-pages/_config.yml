@@ -1,8 +1,8 @@
-title:              Clean Blog
+title:              Blog
 email:              sunhyeeee22@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            ""
+baseurl:            
 url:                "https://shyeo2.github.io/"
 
 # Social Profiles
